@@ -2,6 +2,9 @@
 👋 ¡Hola, soy Christian!<br><br>¡Bienvenido a mi rincón digital! Soy un apasionado programador junior proveniente de Bolivia, con un hambre insaciable por aprender y crecer en el emocionante mundo del desarrollo de software.<br><br>🚀 Sobre Mí:<br><br>🌱 Actualmente explorando los intrincados caminos de la programación y descubriendo nuevas tecnologías.<br>🧠 Constantemente buscando formas de mejorar mis habilidades y mantenerme actualizado con las últimas tendencias tecnológicas.<br><br>💼 Experiencia:<br><br>Aunque mi experiencia es modesta, mi pasión y dedicación son inquebrantables. Estoy listo para sumergirme de lleno en emocionantes proyectos y aprender de los mejores.<br><br>🛠️ Tecnologías:<br><br>Tengo conocimientos modestos en varios lenguajes y tecnologias, pero mi deseo de aprendizaje rápido es mi mayor activo.<br><br>🌟 Por qué trabajar conmigo:<br><br>💡 Aporto una perspectiva fresca y creativa a los desafíos de programación.<br>🤝 Soy un colaborador entusiasta, listo para sumergirme en equipos dinámicos y contribuir al éxito colectivo.<br>📬 ¡Hablemos!<br><br>Estoy ansioso por formar parte de emocionantes proyectos y aprender de profesionales experimentados. Si buscas un desarrollador comprometido y motivado, ¡no dudes en contactarme!<br>¡Gracias por visitar mi perfil! 🚀✨
 
 
+# Mi Portafolio
+![](https://portfolio-chris-nine.vercel.app/)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/christian.calvetty) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/christian-rolando-calvetty-michel-2b8968275) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/R39185Cr) 
 
