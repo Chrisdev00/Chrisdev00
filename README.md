@@ -3,7 +3,7 @@
 
 
 # Mi Portafolio
-![](https://portfolio-chris-nine.vercel.app/)
+(https://portfolio-chris-nine.vercel.app/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/christian.calvetty) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/christian-rolando-calvetty-michel-2b8968275) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/R39185Cr) 
